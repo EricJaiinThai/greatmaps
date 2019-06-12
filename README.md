@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEricJaiinThai%2Fgreatmaps.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FEricJaiinThai%2Fgreatmaps?ref=badge_shield)
+
 <p align="center">
   <img src="../master/Img/logo99.png" />
 </p>
@@ -23,3 +25,7 @@ supports caching and runs on windows mobile!
 <p align="center">
 <a href="https://thepiratebay.se/" target="_blank"><img title="Sail ;}" src="../master/Img/tpb-logo.gif" /></a>
 </p>
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEricJaiinThai%2Fgreatmaps.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FEricJaiinThai%2Fgreatmaps?ref=badge_large)
